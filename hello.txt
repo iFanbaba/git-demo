@@ -21,3 +21,5 @@ hello git! hello atguigu!
 hello2 hello2 hello2
 
 hello3 hello3 hello3
+
+hot-fix checkout
